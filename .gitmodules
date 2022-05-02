@@ -1,0 +1,60 @@
+[submodule "repos/procfs-cmake"]
+	path = repos/procfs-cmake
+	url = https://github.com/zouxiaoliang/procfs-cmake
+[submodule "repos/openssl-cmake"]
+	path = repos/openssl-cmake
+	url = https://github.com/zouxiaoliang/openssl-cmake.git
+[submodule "repos/libarchive-cmake"]
+	path = repos/libarchive-cmake
+	url = https://github.com/zouxiaoliang/libarchive-cmake.git
+[submodule "repos/gflags-cmake"]
+	path = repos/gflags-cmake
+	url = https://github.com/zouxiaoliang/gflags-cmake
+[submodule "repos/curl-cmake"]
+	path = repos/curl-cmake
+	url = https://github.com/zouxiaoliang/curl-cmake.git
+[submodule "repos/boost-cmake"]
+	path = repos/boost-cmake
+	url = https://github.com/zouxiaoliang/boost-cmake.git
+[submodule "repos/libssh2-cmake"]
+	path = repos/libssh2-cmake
+	url = https://github.com/zouxiaoliang/libssh2-cmake.git
+[submodule "repos/system-cmake"]
+	path = repos/system-cmake
+	url = https://github.com/zouxiaoliang/system-cmake.git
+[submodule "repos/software-exploit-cmake"]
+	path = repos/software-exploit-cmake
+	url = https://github.com/zouxiaoliang/software-exploit-cmake.git
+[submodule "repos/filesystem-cmake"]
+	path = repos/filesystem-cmake
+	url = https://github.com/zouxiaoliang/filesystem-cmake.git
+[submodule "repos/libaudit-cmake"]
+	path = repos/libaudit-cmake
+	url = https://github.com/zouxiaoliang/libaudit-cmake.git
+[submodule "repos/nlohmannjson-cmake"]
+	path = repos/nlohmannjson-cmake
+	url = https://github.com/zouxiaoliang/nlohmannjson-cmake.git
+[submodule "repos/netlink-cmake"]
+	path = repos/netlink-cmake
+	url = https://github.com/zouxiaoliang/netlink-cmake.git
+[submodule "repos/libxml2-cmake"]
+	path = repos/libxml2-cmake
+	url = https://github.com/zouxiaoliang/libxml2-cmake.git
+[submodule "repos/errorsystem-cmake"]
+	path = repos/errorsystem-cmake
+	url = https://github.com/zouxiaoliang/errorsystem-cmake.git
+[submodule "repos/jemalloc-cmake"]
+	path = repos/jemalloc-cmake
+	url = https://github.com/zouxiaoliang/jemalloc-cmake.git
+[submodule "repos/conversions-cmake"]
+	path = repos/conversions-cmake
+	url = https://github.com/zouxiaoliang/conversions-cmake.git
+[submodule "repos/cli-cmake"]
+	path = repos/cli-cmake
+	url = https://github.com/zouxiaoliang/cli-cmake.git
+[submodule "repos/enum-cmake"]
+	path = repos/enum-cmake
+	url = https://github.com/zouxiaoliang/enum-cmake.git
+[submodule "repos/tcmalloc-cmake"]
+	path = repos/tcmalloc-cmake
+	url = https://github.com/zouxiaoliang/tcmalloc-cmake.git
